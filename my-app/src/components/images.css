@@ -1,0 +1,12 @@
+img {
+    margin: 15px;
+    width: 150px; 
+    height: 150px;
+    padding: 5px;
+    border: #f3f3f3 1px solid;
+    border-radius: 5px;
+}
+
+.r1  {
+    margin-top: 20px;
+}
